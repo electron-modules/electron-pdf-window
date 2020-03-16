@@ -1,6 +1,6 @@
 {
   "name": "electron-pdf-window-alt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "view PDF files in electron browser windows",
   "main": "index.js",
   "scripts": {
