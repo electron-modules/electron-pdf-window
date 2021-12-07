@@ -1,6 +1,6 @@
 {
   "name": "electron-pdf-window-alt",
-  "version": "0.1.2",
+  "version": "13.0.0",
   "description": "view PDF files in electron browser windows",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/gerhardberger/electron-pdf-window.git"
+    "url": "git://github.com/electron-modules/electron-pdf-window.git"
   },
   "dependencies": {
   },
